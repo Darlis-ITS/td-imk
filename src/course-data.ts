@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Mata kuliah Topik Dalam Interaksi Manusia dan Komputer membahas konsep, metode, perkembangan mutakhir, dan penelitian dalam bidang Human-Computer Interaction (HCI/IMK). Mata kuliah mengintegrasikan fondasi human-centered…",
   "heroTitle": "Topik Dalam Interaksi Manusia dan Komputer",
   "sourceOfferingId": 13,
-  "generatedAt": "2026-09-02T11:23:51.747Z",
+  "generatedAt": "2026-09-02T14:16:19.930Z",
   "rps": {
     "title": "RPS Topik Dalam Interaksi Manusia dan Komputer",
     "path": "rps/rps.md"
@@ -1448,6 +1448,10 @@ export const courseData = {
           "path": "slide/slide-image/pert10/slide-016-v001.webp"
         },
         {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert10/slide-017-v001.webp"
+        },
+        {
           "slideNumber": 18,
           "path": "slide/slide-image/pert10/slide-018-v001.webp"
         },
@@ -1529,7 +1533,7 @@ export const courseData = {
         }
       ],
       "slideCount": 38,
-      "imageCount": 37,
+      "imageCount": 38,
       "narrationCount": 38
     },
     {
@@ -1858,10 +1862,22 @@ export const courseData = {
         {
           "slideNumber": 37,
           "path": "slide/slide-image/pert12/slide-037-v001.webp"
+        },
+        {
+          "slideNumber": 38,
+          "path": "slide/slide-image/pert12/slide-038-v001.webp"
+        },
+        {
+          "slideNumber": 39,
+          "path": "slide/slide-image/pert12/slide-039-v001.webp"
+        },
+        {
+          "slideNumber": 40,
+          "path": "slide/slide-image/pert12/slide-040-v001.webp"
         }
       ],
       "slideCount": 41,
-      "imageCount": 38,
+      "imageCount": 41,
       "narrationCount": 41
     },
     {
@@ -1872,9 +1888,166 @@ export const courseData = {
       "slidePath": "slide/pert13.md",
       "narrationPath": "slide/narasi/pert13.md",
       "practicumPaths": [],
-      "images": [],
+      "images": [
+        {
+          "slideNumber": 0,
+          "path": "slide/slide-image/pert13/slide-000-v001.webp"
+        },
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert13/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert13/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert13/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert13/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert13/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert13/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert13/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert13/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert13/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert13/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert13/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert13/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert13/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert13/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert13/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert13/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert13/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert13/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert13/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert13/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert13/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert13/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert13/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert13/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert13/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert13/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert13/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert13/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert13/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert13/slide-030-v001.webp"
+        },
+        {
+          "slideNumber": 31,
+          "path": "slide/slide-image/pert13/slide-031-v001.webp"
+        },
+        {
+          "slideNumber": 32,
+          "path": "slide/slide-image/pert13/slide-032-v001.webp"
+        },
+        {
+          "slideNumber": 33,
+          "path": "slide/slide-image/pert13/slide-033-v001.webp"
+        },
+        {
+          "slideNumber": 34,
+          "path": "slide/slide-image/pert13/slide-034-v001.webp"
+        },
+        {
+          "slideNumber": 35,
+          "path": "slide/slide-image/pert13/slide-035-v001.webp"
+        },
+        {
+          "slideNumber": 36,
+          "path": "slide/slide-image/pert13/slide-036-v001.webp"
+        },
+        {
+          "slideNumber": 37,
+          "path": "slide/slide-image/pert13/slide-037-v001.webp"
+        },
+        {
+          "slideNumber": 38,
+          "path": "slide/slide-image/pert13/slide-038-v001.webp"
+        }
+      ],
       "slideCount": 39,
-      "imageCount": 0,
+      "imageCount": 39,
       "narrationCount": 39
     },
     {
@@ -1885,9 +2058,178 @@ export const courseData = {
       "slidePath": "slide/pert14.md",
       "narrationPath": "slide/narasi/pert14.md",
       "practicumPaths": [],
-      "images": [],
+      "images": [
+        {
+          "slideNumber": 0,
+          "path": "slide/slide-image/pert14/slide-000-v001.webp"
+        },
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert14/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert14/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert14/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert14/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert14/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert14/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert14/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert14/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert14/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert14/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert14/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert14/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert14/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert14/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert14/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert14/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert14/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert14/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert14/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert14/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert14/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert14/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert14/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert14/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert14/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert14/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert14/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert14/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert14/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert14/slide-030-v001.webp"
+        },
+        {
+          "slideNumber": 31,
+          "path": "slide/slide-image/pert14/slide-031-v001.webp"
+        },
+        {
+          "slideNumber": 32,
+          "path": "slide/slide-image/pert14/slide-032-v001.webp"
+        },
+        {
+          "slideNumber": 33,
+          "path": "slide/slide-image/pert14/slide-033-v001.webp"
+        },
+        {
+          "slideNumber": 34,
+          "path": "slide/slide-image/pert14/slide-034-v001.webp"
+        },
+        {
+          "slideNumber": 35,
+          "path": "slide/slide-image/pert14/slide-035-v001.webp"
+        },
+        {
+          "slideNumber": 36,
+          "path": "slide/slide-image/pert14/slide-036-v001.webp"
+        },
+        {
+          "slideNumber": 37,
+          "path": "slide/slide-image/pert14/slide-037-v001.webp"
+        },
+        {
+          "slideNumber": 38,
+          "path": "slide/slide-image/pert14/slide-038-v001.webp"
+        },
+        {
+          "slideNumber": 39,
+          "path": "slide/slide-image/pert14/slide-039-v001.webp"
+        },
+        {
+          "slideNumber": 40,
+          "path": "slide/slide-image/pert14/slide-040-v001.webp"
+        },
+        {
+          "slideNumber": 41,
+          "path": "slide/slide-image/pert14/slide-041-v001.webp"
+        }
+      ],
       "slideCount": 42,
-      "imageCount": 0,
+      "imageCount": 42,
       "narrationCount": 42
     },
     {
@@ -1898,9 +2240,166 @@ export const courseData = {
       "slidePath": "slide/pert15.md",
       "narrationPath": "slide/narasi/pert15.md",
       "practicumPaths": [],
-      "images": [],
+      "images": [
+        {
+          "slideNumber": 0,
+          "path": "slide/slide-image/pert15/slide-000-v001.webp"
+        },
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert15/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert15/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert15/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert15/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert15/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert15/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert15/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert15/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert15/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert15/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert15/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert15/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert15/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert15/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert15/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert15/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert15/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert15/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert15/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert15/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert15/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert15/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert15/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert15/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert15/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert15/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert15/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert15/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert15/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert15/slide-030-v001.webp"
+        },
+        {
+          "slideNumber": 31,
+          "path": "slide/slide-image/pert15/slide-031-v001.webp"
+        },
+        {
+          "slideNumber": 32,
+          "path": "slide/slide-image/pert15/slide-032-v001.webp"
+        },
+        {
+          "slideNumber": 33,
+          "path": "slide/slide-image/pert15/slide-033-v001.webp"
+        },
+        {
+          "slideNumber": 34,
+          "path": "slide/slide-image/pert15/slide-034-v001.webp"
+        },
+        {
+          "slideNumber": 35,
+          "path": "slide/slide-image/pert15/slide-035-v001.webp"
+        },
+        {
+          "slideNumber": 36,
+          "path": "slide/slide-image/pert15/slide-036-v001.webp"
+        },
+        {
+          "slideNumber": 37,
+          "path": "slide/slide-image/pert15/slide-037-v001.webp"
+        },
+        {
+          "slideNumber": 38,
+          "path": "slide/slide-image/pert15/slide-038-v001.webp"
+        }
+      ],
       "slideCount": 39,
-      "imageCount": 0,
+      "imageCount": 39,
       "narrationCount": 39
     },
     {
