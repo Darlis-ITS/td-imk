@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Mata kuliah Topik Dalam Interaksi Manusia dan Komputer membahas konsep, metode, perkembangan mutakhir, dan penelitian dalam bidang Human-Computer Interaction (HCI/IMK). Mata kuliah mengintegrasikan fondasi human-centered…",
   "heroTitle": "Topik Dalam Interaksi Manusia dan Komputer",
   "sourceOfferingId": 13,
-  "generatedAt": "2026-09-02T14:16:19.930Z",
+  "generatedAt": "2026-09-02T14:26:10.642Z",
   "rps": {
     "title": "RPS Topik Dalam Interaksi Manusia dan Komputer",
     "path": "rps/rps.md"
@@ -1200,7 +1200,7 @@ export const courseData = {
       "narrationPath": "slide/narasi/pert08.md",
       "practicumPaths": [],
       "images": [],
-      "slideCount": 0,
+      "slideCount": 22,
       "imageCount": 0,
       "narrationCount": 0
     },
@@ -2411,7 +2411,7 @@ export const courseData = {
       "narrationPath": "slide/narasi/pert16.md",
       "practicumPaths": [],
       "images": [],
-      "slideCount": 0,
+      "slideCount": 22,
       "imageCount": 0,
       "narrationCount": 0
     }
